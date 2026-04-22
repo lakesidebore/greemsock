@@ -10,18 +10,18 @@
 
  ```bash
 
- 2026-04-22 - 15:22:36 UTC
+ 2026-04-22 - 16:35:37 UTC
 
  ```
 
 
  ```bash
 
- Host Name : runnervm04xxt
+ Host Name : runnervmeorf1
 
- platform  : Linux-6.17.0-1011-azure-x86_64-with-glibc2.39
+ platform  : Linux-6.17.0-1010-azure-x86_64-with-glibc2.39
 
- Ip Local  : 10.1.0.144
+ Ip Local  : 10.1.0.53
 
  ```
 
